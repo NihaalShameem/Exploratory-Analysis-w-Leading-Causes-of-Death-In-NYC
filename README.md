@@ -28,4 +28,4 @@ that I believe will reveal fascinating patterns and trends, shedding light on th
 - Diseases of the Heart and Malignant Neoplasms (Cancer: C00-C97) were the two leading causes of death in New York City. Both male and females both have a high number of deaths from both of these leading causes.
 - Surprisingly there were variation between male and female death rates in total and from 2007 through 2019. 
 - From diving deep into the data, I found that Mental and Behavorial Issues due to Alcohol & Asault ( Homicide) from the data were primarily in the Black Non-Hispanic & Hispanic communities. 
-- Also , we see that death rates and total deaths were at a high from 2007 through 2010. Since they have gone doown and havent reached those numbers through 2019. 
+- Also , we see that death rates and total deaths were at a high from 2007 through 2010. Since then, they have gone down and haven't reached those numbers through 2019. 
