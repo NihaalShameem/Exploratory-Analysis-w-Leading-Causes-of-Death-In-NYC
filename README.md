@@ -15,7 +15,7 @@ Link to the dataset if you would like to explore it:  [https://data.cityofnewyor
 that I believe will reveal fascinating patterns and trends, shedding light on the most pressing health concerns facing New Yorkers today.**
 
 - What were the top three leading causes of death ?
-- Did women or men have higher mortality rates ? (If so, what were the leading causes)
+- Do women or men have higher mortality rates ? (If so, what were the leading causes)
 - Which years had the highest mortality rates and if so how did change as years went on ?
 - What was the correlation between ethnicity and leading causes ?
 - Which specific leading causes correlated with highest amount of deaths ?
