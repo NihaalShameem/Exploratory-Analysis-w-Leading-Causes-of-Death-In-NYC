@@ -6,7 +6,9 @@ leading cause, death rate (per 100,000 people), and age-adjusted death rate (per
 information about the health of New Yorkers. From heart disease to homicides, see my explorations to uncover patterns and insights 
 about the state of public health in the Big Apple.**
 
-Link to the dataset if you would like to explore it:  [https://data.cityofnewyork.us/Health/New-York-City-Leading-Causes-of-Death/jb7j-dtam]
+Link to the dataset if you would like to explore it:  [Original Dataset](https://data.cityofnewyork.us/Health/New-York-City-Leading-Causes-of-Death/jb7j-dtam)
+
+Link to my Dashboard: [Nihaal's Dashbaord](https://lookerstudio.google.com/reporting/fb9559fd-c816-43b3-9842-32a0f11d8fde)
 
 
 ## Questions 
